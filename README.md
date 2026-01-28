@@ -12,4 +12,5 @@
 4. hiddenwiki.org
 5. shodan.io
 6. onionland.io
-7. 
+7. onion.live
+8. 
