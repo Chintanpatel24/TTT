@@ -19,3 +19,5 @@
 12. torhiddenwiki.org
 
 ---
+
+" everything is provided for educational purposes only "
